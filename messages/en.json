@@ -1,0 +1,20 @@
+{
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart"
+  },
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "empty_cart": "Your cart is empty",
+    "total_price": "Total Price",
+    "clear_cart": "Clear Cart",
+    "add_to_cart": "Add to Cart",
+    "tr": "🇹🇷 Türkçe",
+    "en": "🇬🇧 English",
+    "language": "Language",
+    "cart": "Cart"
+  }
+} 

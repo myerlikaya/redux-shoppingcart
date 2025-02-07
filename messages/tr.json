@@ -1,0 +1,20 @@
+{
+    "header": {
+      "home": "Ana Sayfa",
+      "products": "Ürünler",
+      "cart": "Sepet"
+    },
+    "common": {
+      "welcome": "Hoş Geldiniz",
+      "loading": "Yükleniyor...",
+      "error": "Bir hata oluştu",
+      "empty_cart": "Sepetiniz Boş",
+      "total_price": "Toplam Tutar",
+      "clear_cart": "Sepeti Temizle",
+      "add_to_cart": "Sepete Ekle",
+      "tr": "🇹🇷 Türkçe",
+      "en": "🇬🇧 English",
+      "language": "Dil",
+      "cart": "Sepet"
+    }
+  }

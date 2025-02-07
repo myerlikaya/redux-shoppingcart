@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --antd-wave-shadow-color: theme(colors.primary); 
+}
+
+.ant-btn-primary {
+  @apply bg-primary text-white hover:bg-blue-600 transition-all;
+}
+
+.ant-btn-danger {
+  @apply bg-secondary text-white hover:bg-red-600 transition-all;
+}
+
+.ant-card {
+  @apply shadow-lg rounded-xl p-4 bg-white;
+}
+
+.ant-list-item {
+  @apply border-b border-gray-200 p-2 flex justify-between;
+}
